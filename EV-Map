@@ -1,0 +1,1560 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0316082975271,
+          37.39768030913444,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Almanor 2 (10)",
+        "styleUrl": "#msn_blu-circle300",
+        "styleHash": "e74d8d9",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle01",
+          "highlight": "#sh_blu-circle10"
+        },
+        "description": "Nine charging stations located at both front and back of AM02 , providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card"
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0353945495886,
+          37.39053111343411,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Maude 3 (3)",
+        "styleUrl": "#msn_blu-circle30",
+        "styleHash": "-38a17ecf",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle010",
+          "highlight": "#sh_blu-circle100"
+        },
+        "description": "Three charging stations located at side of MD03, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card"
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0381052976644,
+          37.39051222048054,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Potrero 2 (8)",
+        "styleUrl": "#msn_blu-circle4",
+        "styleHash": "5a9083d2",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle0",
+          "highlight": "#sh_blu-circle"
+        },
+        "description": "Eight charging stations located at side of PT02, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card"
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0368943171799,
+          37.39013920993857,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Potrero 1 (3)",
+        "styleUrl": "#msn_blu-circle0",
+        "styleHash": "-4703a728",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle6",
+          "highlight": "#sh_blu-circle2"
+        },
+        "description": "Three charging stations located at side of PT01, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card"
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0334240317932,
+          37.39026360122513,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Maude 4 (10)",
+        "styleUrl": "#msn_blu-circle0",
+        "styleHash": "-4703a728",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle6",
+          "highlight": "#sh_blu-circle2"
+        },
+        "description": "Ten charging stations located at side of MD04, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card"
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0323375374096,
+          37.39081943688777,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mathilda 2 (15)",
+        "styleUrl": "#msn_blu-circle0",
+        "styleHash": "-4703a728",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle6",
+          "highlight": "#sh_blu-circle2"
+        },
+        "description": "Fifeteen charging stations located in the MT02 lot, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card"
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0310111101387,
+          37.39167914843637,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mathilda 3 (1)",
+        "styleUrl": "#msn_blu-circle0",
+        "styleHash": "-4703a728",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle6",
+          "highlight": "#sh_blu-circle2"
+        },
+        "description": "One charging station located in the MT03 lot, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card"
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0108588024705,
+          37.32753887063194,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vallco Parkway 2 (12)",
+        "styleUrl": "#msn_blu-circle000",
+        "styleHash": "-51f2f606",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle40",
+          "highlight": "#sh_blu-circle20"
+        },
+        "description": "12 charging stations in the third aisle of the VP02 rear parking lot, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0295749810411,
+          37.33201023382729,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infinite Loop 4, Garage(4)",
+        "styleUrl": "#msn_blu-circle01",
+        "styleHash": "-6a54280c",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle51",
+          "highlight": "#sh_blu-circle30"
+        },
+        "description": "Four charging stations located next to the elevators of the IL04 parking garage, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0285086589473,
+          37.33277725667692,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infinite Loop 4, Front (7)",
+        "styleUrl": "#msn_blu-circle010",
+        "styleHash": "27076576",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle510",
+          "highlight": "#sh_blu-circle300"
+        },
+        "description": "Seven charging stations located near the front of the IL-4 lobby entrance, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0300454620984,
+          37.332563564098,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infinite Loop 2, Garage(2)",
+        "styleUrl": "#msn_blu-circle010",
+        "styleHash": "27076576",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle510",
+          "highlight": "#sh_blu-circle300"
+        },
+        "description": "Two charging stations located near the ramp entrance of IL-2, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0035741123071,
+          37.32422367266518,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Stevens Creek 8, Garage (11)",
+        "styleUrl": "#msn_grn-square3",
+        "styleHash": "-2ad06505",
+        "styleMapHash": {
+          "normal": "#sn_grn-square0",
+          "highlight": "#sh_grn-square"
+        },
+        "description": "11 charging stations located in the basement level of SC-8, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.004269733983,
+          37.32359641790087,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Stevens Creek 10 (4)",
+        "styleUrl": "#msn_grn-square3",
+        "styleHash": "-2ad06505",
+        "styleMapHash": {
+          "normal": "#sn_grn-square0",
+          "highlight": "#sh_grn-square"
+        },
+        "description": "Four charging stations located on the southeast corner of SC-10, adjacent to the building. Stations providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0335048303674,
+          37.33000942064144,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DeAnza 12, Garage (4)",
+        "styleUrl": "#msn_blu-circle3",
+        "styleHash": "-20794b6e",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle000",
+          "highlight": "#sh_blu-circle1000"
+        },
+        "description": "Four charging stations at the north end of DA12 parking garage, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0335241793038,
+          37.32845205015525,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bandley 3 (2)",
+        "styleUrl": "#msn_grn-circle2",
+        "styleHash": "-41ec976e",
+        "styleMapHash": {
+          "normal": "#sn_grn-circle20",
+          "highlight": "#sh_grn-circle1"
+        },
+        "description": "Two charging stations at rear of BA03, providing  SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0328149695845,
+          37.32896462208649,
+          0
+        ]
+      },
+      "properties": {
+        "name": "De Anza 7 (4)",
+        "styleUrl": "#msn_grn-circle1",
+        "styleHash": "-19f32942",
+        "styleMapHash": {
+          "normal": "#sn_grn-circle0",
+          "highlight": "#sh_grn-circle4"
+        },
+        "description": "Four charging stations at DA07, providing  SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0071278575553,
+          37.32567579548345,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vallco Parkway 1 (25)",
+        "styleUrl": "#msn_grn-circle",
+        "styleHash": "10e54b40",
+        "styleMapHash": {
+          "normal": "#sn_grn-circle2",
+          "highlight": "#sh_grn-circle"
+        },
+        "description": "Twenty-five charging station at rear of VP01, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0507938816681,
+          37.31897909888716,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bubb 11 (3)",
+        "styleUrl": "#msn_blu-circle40",
+        "styleHash": "-12e0c779",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle7",
+          "highlight": "#sh_blu-circle400"
+        },
+        "description": "Three charging stations located at rear of BB11, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0507985237404,
+          37.31615906749176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Results Way 2 (8)",
+        "styleUrl": "#msn_blu-circle40",
+        "styleHash": "-12e0c779",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle7",
+          "highlight": "#sh_blu-circle400"
+        },
+        "description": "Eight charging stations in RW02 parking garage, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0497464475208,
+          37.31617427858674,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bubb 12 (10)",
+        "styleUrl": "#msn_blu-circle1",
+        "styleHash": "-4216b1fc",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle4",
+          "highlight": "#sh_blu-circle11"
+        },
+        "description": "Ten charging stations in BB12 parking lot, providing SAE J1772  (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0499021970699,
+          37.31725404078398,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bubb 16 (3)",
+        "styleUrl": "#msn_blu-circle1",
+        "styleHash": "-4216b1fc",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle4",
+          "highlight": "#sh_blu-circle11"
+        },
+        "description": "3 charging stations in BB16 parking lot, providing SAE J1772  (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0504057350334,
+          37.317862355846,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bubb 8 (2)",
+        "styleUrl": "#msn_blu-circle1",
+        "styleHash": "-4216b1fc",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle4",
+          "highlight": "#sh_blu-circle11"
+        },
+        "description": "2 charging stations in BB08 parking lot, providing SAE J1772  (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0482573016414,
+          37.31577876605986,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bubb 7 (1)",
+        "styleUrl": "#msn_blu-circle1",
+        "styleHash": "-4216b1fc",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle4",
+          "highlight": "#sh_blu-circle11"
+        },
+        "description": "One charging stations in BB07 parking lot, providing SAE J1772  (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0488216989297,
+          37.31679328831519,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bubb 14 (2)",
+        "styleUrl": "#msn_blu-circle1",
+        "styleHash": "-4216b1fc",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle4",
+          "highlight": "#sh_blu-circle11"
+        },
+        "description": "Two charging stations in BB14 parking lot, providing SAE J1772  (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0487732157402,
+          37.31777652849276,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bubb 5 (1)",
+        "styleUrl": "#msn_blu-circle6",
+        "styleHash": "-32423f8",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle8",
+          "highlight": "#sh_blu-circle9"
+        },
+        "description": "One charging stations in BB05 parking lot, providing SAE J1772  (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0520580775653,
+          37.31733542308341,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Results Way 6 (9)",
+        "styleUrl": "#msn_blu-circle2",
+        "styleHash": "-51d3557d",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle3",
+          "highlight": "#sh_blu-circle6"
+        },
+        "description": "Nine charging stations in RW06 parking Garage, providing SAE J1772  (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0077663834257,
+          37.38527003245245,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DeGuigne (1)",
+        "styleUrl": "#msn_grn-square",
+        "styleHash": "55937e58",
+        "styleMapHash": {
+          "normal": "#sn_grn-square3",
+          "highlight": "#sh_grn-square4"
+        },
+        "description": "One charging station providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0095984037601,
+          37.38495288064777,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Stewart 1 (5)",
+        "styleUrl": "#msn_grn-square4",
+        "styleHash": "76d0c6ab",
+        "styleMapHash": {
+          "normal": "#sn_grn-square",
+          "highlight": "#sh_grn-square3"
+        },
+        "description": "Five charging station providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0052763529017,
+          37.33089189476011,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tantau 3 (1)",
+        "styleUrl": "#msn_grn-circle000",
+        "styleHash": "3cfb9834",
+        "styleMapHash": {
+          "normal": "#sn_grn-circle00",
+          "highlight": "#sh_grn-circle2"
+        },
+        "description": "One charging station located at rear of TA03, providing NEMA 5-20 charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0308990203133,
+          37.33194084518382,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infinite Loop 1, Front (4)",
+        "styleUrl": "#msn_grn-circle00",
+        "styleHash": "-486ef01",
+        "styleMapHash": {
+          "normal": "#sn_grn-circle1",
+          "highlight": "#sh_grn-circle5"
+        },
+        "description": "Four charging stations located in the front row of the IL01 parking lot, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0334201079496,
+          37.33074759105214,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mariani 1 (15)",
+        "styleUrl": "#msn_grn-circle1",
+        "styleHash": "-19f32942",
+        "styleMapHash": {
+          "normal": "#sn_grn-circle0",
+          "highlight": "#sh_grn-circle4"
+        },
+        "description": "Fifteen charging stations located at MA01, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0051423182226,
+          37.33158130780963,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tantau 4 (1)",
+        "styleUrl": "#msn_grn-circle10",
+        "styleHash": "19f7a1b5",
+        "styleMapHash": {
+          "normal": "#sn_grn-circle10",
+          "highlight": "#sh_grn-circle00"
+        },
+        "description": "One charging station at rear of TA04, providing NEMA 5-20 charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.033822096647,
+          37.32617866832879,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DeAnza 2 (12)",
+        "styleUrl": "#msn_grn-circle3",
+        "styleHash": "-1facb059",
+        "styleMapHash": {
+          "normal": "#sn_grn-circle3",
+          "highlight": "#sh_grn-circle0"
+        },
+        "description": "Twelve charging stations in the DA02 garage, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0035677800198,
+          37.33479938820459,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#7a7a7a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Forge 1 (2)",
+        "styleUrl": "#msn_grn-square1",
+        "styleHash": "2b0a1f77",
+        "styleMapHash": "{\"normal\":\"#sn_grn-square4\",\"highlight\":\"#sh_grn-square2\"}",
+        "description": "Two charging stations at west side of FG01, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9827377150685,
+          37.40648367660235,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Filemaker (2)",
+        "styleUrl": "#msn_grn-square00",
+        "styleHash": "1c08d36c",
+        "styleMapHash": {
+          "normal": "#sn_grn-square10",
+          "highlight": "#sh_grn-square01"
+        },
+        "description": "Two charging stations near the rear entrance of FLMK, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0406442665389,
+          37.39557377643289,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Benecia 2 (3)",
+        "styleUrl": "#msn_grn-square100",
+        "styleHash": "42ab50ab",
+        "styleMapHash": {
+          "normal": "#sn_grn-square00",
+          "highlight": "#sh_grn-square1"
+        },
+        "description": "Three charging stations located near the BE02 lobby entrance,  providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0411487972056,
+          37.39360882844861,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Macara 2 (2)",
+        "styleUrl": "#msn_grn-square100",
+        "styleHash": "42ab50ab",
+        "styleMapHash": {
+          "normal": "#sn_grn-square00",
+          "highlight": "#sh_grn-square1"
+        },
+        "description": "Two charging stations located at the rear of MC02, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0420031574388,
+          37.3940184964246,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Macara 3 (2)",
+        "styleUrl": "#msn_grn-square2",
+        "styleHash": "-7fe322c7",
+        "styleMapHash": {
+          "normal": "#sn_grn-square2",
+          "highlight": "#sh_grn-square0"
+        },
+        "description": "Two charging stations located at MC03, providing SAE J1772 ( Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0337361111111,
+          37.37557222222222,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mathilda 1 (3)",
+        "styleUrl": "#msn_grn-square100",
+        "styleHash": "42ab50ab",
+        "styleMapHash": {
+          "normal": "#sn_grn-square00",
+          "highlight": "#sh_grn-square1"
+        },
+        "description": "Three charging stations on ground floor of underground parking garage, near elevator, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0381734095704,
+          37.38866816549186,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Potrero 4 (3)",
+        "styleUrl": "#msn_blu-circle5",
+        "styleHash": "1e317c5a",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle02",
+          "highlight": "#sh_blu-circle5"
+        },
+        "description": "Three charging stations located on the south side of PT04, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0369664542678,
+          37.38736399191428,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Potrero 5 (4)",
+        "styleUrl": "#msn_blu-circle0",
+        "styleHash": "-4703a728",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle6",
+          "highlight": "#sh_blu-circle2"
+        },
+        "description": "Three charging stations located on the south side of PT05, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0019037618866,
+          37.37939280667138,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arques 4 (2)",
+        "styleUrl": "#msn_grn-square2",
+        "styleHash": "-7fe322c7",
+        "styleMapHash": {
+          "normal": "#sn_grn-square2",
+          "highlight": "#sh_grn-square0"
+        },
+        "description": "Two charging stations providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0005570209241,
+          37.37913325596327,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arques 3 (2)",
+        "styleUrl": "#msn_grn-square10",
+        "styleHash": "1821f1ca",
+        "styleMapHash": {
+          "normal": "#sn_grn-square01",
+          "highlight": "#sh_grn-square30"
+        },
+        "description": "Two charging stations providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.005308330426,
+          37.32485972263497,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tantau 7A (2)",
+        "styleUrl": "#msn_grn-square0",
+        "styleHash": "-a99a9d3",
+        "styleMapHash": {
+          "normal": "#sn_grn-square20",
+          "highlight": "#sh_grn-square00"
+        },
+        "description": "Two charging stations located at rear of TA07A, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0059949980229,
+          37.32372165202457,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tantau 7B (2)",
+        "styleUrl": "#msn_grn-square0",
+        "styleHash": "-a99a9d3",
+        "styleMapHash": {
+          "normal": "#sn_grn-square20",
+          "highlight": "#sh_grn-square00"
+        },
+        "description": "Two charging stations located on the southwest side of TA07B, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0305568573901,
+          37.32939772541005,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DeAnza 3 - Loading Dock (2)",
+        "styleUrl": "#msn_blu-circle20",
+        "styleHash": "-11ab7906",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle2",
+          "highlight": "#sh_blu-circle40"
+        },
+        "description": "Two charging stations located near the east loading dock of DA03, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0305204477009,
+          37.32900312177118,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DeAnza 3, Rear (5)",
+        "styleUrl": "#msn_blu-circle20",
+        "styleHash": "-11ab7906",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle2",
+          "highlight": "#sh_blu-circle40"
+        },
+        "description": "Five charging stations located at the DA03 rear parking lot, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0308216937069,
+          37.32976122478642,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DeAnza 3, Front (5)",
+        "styleUrl": "#msn_blu-circle20",
+        "styleHash": "-11ab7906",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle2",
+          "highlight": "#sh_blu-circle40"
+        },
+        "description": "Five charging stations located near the DA03 front entrance, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0344657812048,
+          37.33251541854234,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Valley Green 5/6 (4)",
+        "styleUrl": "#msn_blu-circle001",
+        "styleHash": "52545c09",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle03",
+          "highlight": "#sh_blu-circle8"
+        },
+        "description": "Four charging stations located in the parking lot between VG05 and VG06, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0354986696115,
+          37.33162508886576,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Valley Green 2 (5)",
+        "styleUrl": "#msn_blu-circle2",
+        "styleHash": "-51d3557d",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle3",
+          "highlight": "#sh_blu-circle6"
+        },
+        "description": "Five charging stations located in the parking lot between VG02 and the Fitness Center, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0344826960555,
+          37.3331105542605,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Valley Green 6 (1)",
+        "styleUrl": "#msn_blu-circle001",
+        "styleHash": "52545c09",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle03",
+          "highlight": "#sh_blu-circle8"
+        },
+        "description": "One charging station, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0405778303152,
+          37.38905660663058,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mary 3 (3)",
+        "styleUrl": "#msn_blu-circle00",
+        "styleHash": "4896fef6",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle00",
+          "highlight": "#sh_blu-circle7"
+        },
+        "description": "Three charging stations located at the rear of MR03, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0385523899192,
+          37.3881819594961,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Potrero 3 (3)",
+        "styleUrl": "#msn_blu-circle10",
+        "styleHash": "3bb1615b",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle100",
+          "highlight": "#sh_blu-circle1"
+        },
+        "description": "Three charging stations located on the side of PT03, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0395757590111,
+          37.3878743275022,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hermosa 2 (3)",
+        "styleUrl": "#msn_grn-square00",
+        "styleHash": "1c08d36c",
+        "styleMapHash": {
+          "normal": "#sn_grn-square10",
+          "highlight": "#sh_grn-square01"
+        },
+        "description": "Three charging stations on the east side of HE02, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0395286959396,
+          37.38678149632862,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hermosa 3 (5)",
+        "styleUrl": "#msn_grn-square2",
+        "styleHash": "-7fe322c7",
+        "styleMapHash": {
+          "normal": "#sn_grn-square2",
+          "highlight": "#sh_grn-square0"
+        },
+        "description": "Five charging stations on the west side of HE03, providing SAE J1772  (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0510416759428,
+          37.32037102956423,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bubb 15 (2)",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "-16bee55a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Two charging stations in the BB15 parking lot, providing SAE J1772 (Level 1 and Level 2) charging. Email commute@apple.com for a Chargepoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0514982706838,
+          37.32146515291378,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bubb 04 (4)",
+        "styleUrl": "#msn_blu-circle",
+        "styleHash": "18dde5db",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle1",
+          "highlight": "#sh_blu-circle0"
+        },
+        "description": "Four charging stations in the BB04 parking lot, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a Chargepoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0295234090481,
+          37.33125998236314,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Infinite Loop 6, Garage (3)",
+        "styleUrl": "#msn_blu-circle0010",
+        "styleHash": "-56c04aa9",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle5",
+          "highlight": "#sh_blu-circle3"
+        },
+        "description": "Three charging stations located along the southeast wall of the IL06 parking garage, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0521979530741,
+          37.3189870098037,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Results Way 12 (4)",
+        "styleUrl": "#msn_grn-circle0",
+        "styleHash": "-26f9ab42",
+        "styleMapHash": {
+          "normal": "#sn_grn-circle",
+          "highlight": "#sh_grn-circle3"
+        },
+        "description": "Four charging stations providing SAE J1772  (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0028676186345,
+          37.33703987625299,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Homestead 1 (7)",
+        "styleUrl": "#msn_grn-square5",
+        "styleHash": "-5559c3e6",
+        "styleMapHash": {
+          "normal": "#sn_grn-square1",
+          "highlight": "#sh_grn-square5"
+        },
+        "description": "Seven charging stations located in the parking garage of HS01. Chargers provide SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.041645467637,
+          37.38718908639317,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mary 1 (3)",
+        "styleUrl": "#msn_blu-circle11",
+        "styleHash": "22342e36",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle",
+          "highlight": "#sh_blu-circle60"
+        },
+        "description": "Three charging stations at the east side of MR01, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0005762498559,
+          37.50959279030843,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Newark 1 (1)",
+        "styleUrl": "#msn_blu-circle7",
+        "styleHash": "60c80f7c",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle60",
+          "highlight": "#sh_blu-circle4"
+        },
+        "description": "One charging station in front of NW01, providing SAE J1772  Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.998907570784,
+          37.5091044042837,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Newark 2 (1)",
+        "styleUrl": "#msn_blu-circle8",
+        "styleHash": "21f481b7",
+        "styleMapHash": {
+          "normal": "#sn_blu-circle10",
+          "highlight": "#sh_blu-circle00"
+        },
+        "description": "One charging station at the rear of NW01, providing SAE J1772 (Level 2) charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "location": "cupertino"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Section 2 (9)",
+        "Description": "5 stations located in P1 and 4 stations located in P2. Providing NEMA 5-20 charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00671434402464,
+          37.33476371057405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Section 6 (24)",
+        "Description": "13 stations located in P1 and 11 stations in P2. Providing NEMA 5-20 charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01134920120238,
+          37.33479783279927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Section 8 (28)",
+        "Description ": "18 stations located in P1 and 10 stations in P2. Providing NEMA 5-20 charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00896739959715,
+          37.33660628855377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name ": "Section 4 (21)",
+        "Description": "11 stations located in P1 and 10 stations in P2. Providing NEMA 5-20 charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00909614562987,
+          37.33288696431806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Section 7 (22)",
+        "Description": "11 stations located in P1 and 11 stations in P2. Providing NEMA 5-20 charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01061964035033,
+          37.336111526683304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Section 3 (22)",
+        "Description": "11 stations located in P1 and 11 stations in P2. Providing NEMA 5-20 charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00740098953246,
+          37.333552361537436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Section 5 (21)",
+        "Description": "11 stations located in P1 and 10 stations in P2. Providing NEMA 5-20 charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01083421707155,
+          37.33362060707281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Tantau 11",
+        "Description ": "10 stations located. Providing NEMA 5-20 charging. Email commute@apple.com for a ChargePoint access card."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00527667999269,
+          37.32766595082832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Tantau 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00525522232056,
+          37.32674455784313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Tantau 9 (22)",
+        "Description": "22 stations location "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00662851333618,
+          37.32785364060672
+        ]
+      }
+    }
+  ]
+}
